@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jan 21 13:28:28 2013
+modified 4th Fib 2012 to help use Git and gitHub
 rock paper scissors 
 @author: graham naylor;
 For use in linux console. Enter rock paper or scissors (or their initial!).. use:  ./mit_rps.py
